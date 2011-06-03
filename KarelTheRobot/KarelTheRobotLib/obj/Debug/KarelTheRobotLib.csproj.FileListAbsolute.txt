@@ -1,0 +1,14 @@
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelTheRobotLib\bin\Debug\KarelTheRobotLib.dll
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelTheRobotLib\bin\Debug\KarelTheRobotLib.pdb
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelTheRobotLib\bin\Debug\KarelRobotCore.dll
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelTheRobotLib\bin\Debug\KarelRobotCore.pdb
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelTheRobotLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelTheRobotLib\obj\Debug\KarelTheRobotLib.dll
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelTheRobotLib\obj\Debug\KarelTheRobotLib.pdb
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelTheRobotLib\bin\Debug\KarelTheRobotLib.dll
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelTheRobotLib\bin\Debug\KarelTheRobotLib.pdb
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelTheRobotLib\bin\Debug\KarelRobotCore.dll
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelTheRobotLib\bin\Debug\KarelRobotCore.pdb
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelTheRobotLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelTheRobotLib\obj\Debug\KarelTheRobotLib.dll
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelTheRobotLib\obj\Debug\KarelTheRobotLib.pdb

@@ -1,0 +1,7 @@
+<Modules>
+  <Module PersistentId="B26054D6-3B8D-454B-9488-54417832149A" ModuleId="KarelTheRobot" />
+  <Module PersistentId="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A" ModuleId="KarelTheRobotLib" />
+  <Module PersistentId="7CEAC81B-2ABB-4043-99B9-022B41E2018E" ModuleId="KarlTheRobotLibUnitTest" />
+  <Module PersistentId="B4162DE3-6A46-4382-BDE6-F7FE77330C87" ModuleId="KarelRobotCore" />
+  <Module PersistentId="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6" ModuleId="KarelSpecFlowTest" />
+</Modules>

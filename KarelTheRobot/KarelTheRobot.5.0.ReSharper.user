@@ -1,0 +1,333 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:Exceptions/f:KarelNoBeeperAtCornerException.cs" caret="622" fromTop="16" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:Exceptions/f:KarelCrashedException.cs" caret="650" fromTop="18" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:Exceptions/f:KarelOutOfBoundsExcpetion.cs" caret="199" fromTop="7" />
+      <File id="B4162DE3-6A46-4382-BDE6-F7FE77330C87/d:Enums/f:DirectionEnum.cs" caret="140" fromTop="9" />
+      <File id="B4162DE3-6A46-4382-BDE6-F7FE77330C87/d:Interfaces/f:ICorner.cs" caret="14" fromTop="0" />
+      <File id="B4162DE3-6A46-4382-BDE6-F7FE77330C87/d:Interfaces/f:IRobot.cs" caret="1241" fromTop="44" />
+      <File id="B4162DE3-6A46-4382-BDE6-F7FE77330C87/d:Interfaces/f:IWorld.cs" caret="687" fromTop="20" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:DTO/f:LocationPoint.cs" caret="433" fromTop="0" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:Extensions/f:Md5Sum.cs" caret="157" fromTop="4" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:Extensions/f:RobotExtensions.cs" caret="165" fromTop="5" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:WorldUnitTest.cs" caret="0" fromTop="0" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:DTO/f:Corner.cs" caret="415" fromTop="19" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:LocationPointUnitTest.cs" caret="0" fromTop="0" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotFeature.feature" caret="207" fromTop="8" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="1131" fromTop="16" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:Factories/f:AbstractRobotFactory.cs" caret="0" fromTop="0" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:Factories/f:RobotFactory.cs" caret="0" fromTop="0" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/f:Robot.cs" caret="0" fromTop="0" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/f:World.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:WhenCreatingWorld.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:WhenCreatingRobot.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:WhenComparingWorldWithNullItem.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:TestExtensions.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:RobotExtensioTest.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:Md5UnitTest.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:CornerUnitTest.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:BaseContextBase.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:BaseContext.cs" caret="332" fromTop="15" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:DTO/f:Product.cs" caret="306" fromTop="11" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1617" fromTop="24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:WhenCreatingRobot.cs" caret="598" fromTop="17" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1743" fromTop="23" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/f:World.cs" caret="6650" fromTop="17" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1835" fromTop="26" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="2130" fromTop="37" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotFeature.feature" caret="241" fromTop="9" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="1258" fromTop="34" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="125" fromTop="0" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="1080" fromTop="26" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="1080" fromTop="37" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="1080" fromTop="26" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="623" fromTop="19" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="744" fromTop="25" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="377" fromTop="13" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="1052" fromTop="35" />
+      <File id="BDB43259-53C1-4B4E-A9A4-5F1F97B1A1D6/f:RobotMoveDefinition.cs" caret="1239" fromTop="19" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:BaseContextBase.cs" caret="0" fromTop="0" />
+      <File id="7CEAC81B-2ABB-4043-99B9-022B41E2018E/f:BaseContext.cs" caret="18" fromTop="0" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:DTO/f:Product.cs" caret="306" fromTop="10" />
+      <File id="97A4221D-1B31-4CDD-AB02-4C75CFA2B98A/d:DTO/f:Product.cs" caret="306" fromTop="11" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="563" fromTop="16" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1292" fromTop="28" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="53" fromTop="1" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1292" fromTop="28" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="303" fromTop="0" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="713" fromTop="20" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1375" fromTop="19" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1083" fromTop="10" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1276" fromTop="14" />
+      <File id="B26054D6-3B8D-454B-9488-54417832149A/f:Program.cs" caret="1476" fromTop="21" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="new" priority="12" />
+      <Item value="Corner" priority="4" />
+      <Item value="private" priority="12" />
+      <Item value="bool" priority="4" />
+      <Item value="if" priority="1" />
+      <Item value="street" priority="0" />
+      <Item value="return" priority="8" />
+      <Item value="else" priority="0" />
+      <Item value="int" priority="13" />
+      <Item value="ValidStreet`0" priority="0" />
+      <Item value="NumberOfAvenues" priority="2" />
+      <Item value="NumberOfStreets" priority="5" />
+      <Item value="getRobotStartAvenue`0" priority="0" />
+      <Item value="setRobotStartAvenue`0" priority="0" />
+      <Item value="true" priority="1" />
+      <Item value="class" priority="2" />
+      <Item value="_corners" priority="0" />
+      <Item value="GetLength`0" priority="0" />
+      <Item value="GetHashCode`0" priority="0" />
+      <Item value="world" priority="4" />
+      <Item value="World`0" priority="1" />
+      <Item value="a" priority="0" />
+      <Item value="public" priority="15" />
+      <Item value="NumerOfBeepers" priority="0" />
+      <Item value="avenue" priority="0" />
+      <Item value="Corner`0" priority="1" />
+      <Item value="ApplicationException`0" priority="0" />
+      <Item value="using" priority="5" />
+      <Item value="System" priority="3" />
+      <Item value="KPoint`0" priority="1" />
+      <Item value="Avenue" priority="7" />
+      <Item value="Street" priority="3" />
+      <Item value="location" priority="15" />
+      <Item value="West" priority="2" />
+      <Item value="FacingEast`0" priority="0" />
+      <Item value="FacingNorth`0" priority="0" />
+      <Item value="FacingSouth`0" priority="0" />
+      <Item value="IsDirectionBlocked`0" priority="1" />
+      <Item value="North" priority="1" />
+      <Item value="Beepers" priority="2" />
+      <Item value="South" priority="1" />
+      <Item value="Direction" priority="4" />
+      <Item value="East" priority="0" />
+      <Item value="DirectionProperty" priority="0" />
+      <Item value="value" priority="1" />
+      <Item value="IWorld`0" priority="3" />
+      <Item value="ContextStaticAttribute`0" priority="1" />
+      <Item value="direction" priority="1" />
+      <Item value="Direction`0" priority="0" />
+      <Item value="_location" priority="9" />
+      <Item value="KarelTheRobot" priority="0" />
+      <Item value="AbstractRobotFactory`0" priority="0" />
+      <Item value="Robot" priority="1" />
+      <Item value="RuntimeArgumentHandle`0" priority="1" />
+      <Item value="GCNotificationStatus`0" priority="0" />
+      <Item value="void" priority="9" />
+      <Item value="Robot`0" priority="1" />
+      <Item value="TurnLeft`0" priority="4" />
+      <Item value="_world" priority="4" />
+      <Item value="const" priority="3" />
+      <Item value="IRobot`0" priority="1" />
+      <Item value="CornerUnitTest`0" priority="0" />
+      <Item value="SetUp" priority="1" />
+      <Item value="_corner" priority="1" />
+      <Item value="SetUpFixture" priority="0" />
+      <Item value="_street" priority="2" />
+      <Item value="_avenue" priority="0" />
+      <Item value="var" priority="3" />
+      <Item value="Assert`0" priority="2" />
+      <Item value="firstCorner" priority="2" />
+      <Item value="secondCorner" priority="2" />
+      <Item value="string" priority="3" />
+      <Item value="testSTring" priority="2" />
+      <Item value="Convert`0" priority="0" />
+      <Item value="firstString" priority="0" />
+      <Item value="secondString" priority="0" />
+      <Item value="RobotExtensiotest`0" priority="0" />
+      <Item value="robot" priority="0" />
+      <Item value="NUnit.Framework" priority="0" />
+      <Item value="protected" priority="3" />
+      <Item value="virtual" priority="1" />
+      <Item value="Because`0" priority="1" />
+      <Item value="abstract" priority="1" />
+      <Item value="t`0" priority="0" />
+      <Item value="T`0" priority="1" />
+      <Item value="Category" priority="0" />
+      <Item value="Void`0" priority="0" />
+      <Item value="Sut" priority="2" />
+      <Item value="SetupContext`0" priority="0" />
+      <Item value="BaseContext`0" priority="0" />
+      <Item value="World" priority="0" />
+      <Item value="_result" priority="1" />
+      <Item value="currentAvenue" priority="1" />
+      <Item value="numberOfStreets" priority="0" />
+      <Item value="Rhino.Mocks" priority="0" />
+      <Item value="Expect`0" priority="0" />
+      <Item value="_robot" priority="0" />
+      <Item value="LocationPoint" priority="0" />
+      <Item value="Builder" priority="1" />
+      <Item value="Action`0" priority="0" />
+      <Item value="Action&lt;string&gt;" priority="0" />
+      <Item value="Console`0" priority="0" />
+      <Item value="products" priority="0" />
+      <Item value="Linq" priority="0" />
+      <Item value="Data" priority="0" />
+      <Item value="XmlReadMode`0" priority="0" />
+      <Item value="x" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobot.World">
+      <Item value="NumberOfAvenues" priority="0" />
+      <Item value="NumberOfStreets" priority="1" />
+      <Item value="CheckEastWestWallExists`0" priority="0" />
+      <Item value="CheckNorthSouthWallExists`0" priority="0" />
+      <Item value="CheckBeepersExist`0" priority="0" />
+      <Item value="PutBeeper`0" priority="0" />
+      <Item value="PickBeeper`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobot.Corner">
+      <Item value="equals`0" priority="0" />
+      <Item value="NumerOfBeepers" priority="0" />
+      <Item value="HasNorthWall" priority="3" />
+      <Item value="HasEastWall" priority="3" />
+      <Item value="Equals`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToInt32`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobot.KPoint">
+      <Item value="Avenue" priority="13" />
+      <Item value="Street" priority="10" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobot.IWorld">
+      <Item value="RobotStartAvenue" priority="0" />
+      <Item value="RobotStartStreet" priority="0" />
+      <Item value="RobotStartBeepers" priority="0" />
+      <Item value="RobotStartDirection" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@KarelTheRobotLib.Enums.Direction">
+      <Item value="North" priority="0" />
+      <Item value="East" priority="0" />
+      <Item value="South" priority="1" />
+      <Item value="West" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobotLib.Enums.Direction">
+      <Item value="North" priority="0" />
+      <Item value="CompareTo`0" priority="0" />
+      <Item value="East" priority="0" />
+      <Item value="West" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobotLib.IWorld">
+      <Item value="IsInBounds`0" priority="0" />
+      <Item value="CheckEastWestWallExists`0" priority="1" />
+      <Item value="CheckNorthSouthWallExists`0" priority="1" />
+      <Item value="CheckBeepersExists`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobotLib.KPoint">
+      <Item value="Avenue" priority="4" />
+      <Item value="Street" priority="4" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobotLib.Factories.RobotFactory">
+      <Item value="CreateRobot`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobotLib.Robot">
+      <Item value="NoBeepersPresent`0" priority="0" />
+      <Item value="Avenue" priority="1" />
+      <Item value="World" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobotLib.DTO.Corner">
+      <Item value="Avenue" priority="0" />
+      <Item value="Street" priority="1" />
+      <Item value="Equals`0" priority="0" />
+      <Item value="GetHashCode`0" priority="2" />
+      <Item value="NumerOfBeepers" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@NUnit.Framework.Assert">
+      <Item value="AreEqual`0" priority="5" />
+      <Item value="IsTrue`0" priority="2" />
+      <Item value="IsFalse`0" priority="0" />
+      <Item value="IsNotNull`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="GetMd5Sum`0" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Int32">
+      <Item value="Parse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@KarelRobotCore.Enums.Direction">
+      <Item value="East" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobotLib.World">
+      <Item value="Equals`0" priority="0" />
+      <Item value="NumberOfAvenues" priority="0" />
+      <Item value="NumberOfStreets" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ShouldBeFalse`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.MockRepository">
+      <Item value="GenerateStrictMock`0" priority="0" />
+      <Item value="GenerateStub`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@Rhino.Mocks.Expect">
+      <Item value="Call`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelRobotCore.Interfaces.IWorld">
+      <Item value="NumberOfAvenues" priority="3" />
+      <Item value="NumberOfStreets" priority="2" />
+      <Item value="Stub`2" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Rhino.Mocks.Interfaces.IMethodOptions`1">
+      <Item value="Return`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelRobotCore.Interfaces.IRobot">
+      <Item value="PutBeeper`0" priority="0" />
+      <Item value="Street" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FizzWare.NBuilder.Builder`1">
+      <Item value="CreateListOfSize`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FizzWare.NBuilder.IListBuilder`1">
+      <Item value="WhereTheFirst`1" priority="0" />
+      <Item value="WhereAll`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:FizzWare.NBuilder.IOperable`1">
+      <Item value="Have`2" priority="1" />
+      <Item value="Build`0" priority="1" />
+      <Item value="AndTheNext`1" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:KarelTheRobotLib.DTO.Product">
+      <Item value="Description" priority="1" />
+      <Item value="ProductCode" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Console">
+      <Item value="WriteLine`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.IList`1">
+      <Item value="ToList`1" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="ForEach`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@FizzWare.NBuilder.BuilderSetup">
+      <Item value="SetDefaultPropertyNamer`0" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

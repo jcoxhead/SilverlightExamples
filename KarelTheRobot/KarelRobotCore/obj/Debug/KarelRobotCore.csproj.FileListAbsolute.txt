@@ -1,0 +1,10 @@
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelRobotCore\bin\Debug\KarelRobotCore.dll
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelRobotCore\bin\Debug\KarelRobotCore.pdb
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelRobotCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelRobotCore\obj\Debug\KarelRobotCore.dll
+C:\Alterax\vs2010\Examples\KarelTheRobot\KarelRobotCore\obj\Debug\KarelRobotCore.pdb
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelRobotCore\bin\Debug\KarelRobotCore.dll
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelRobotCore\bin\Debug\KarelRobotCore.pdb
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelRobotCore\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelRobotCore\obj\Debug\KarelRobotCore.dll
+C:\Users\jcoxhead\GitHub\SilverlightExamples\KarelTheRobot\KarelRobotCore\obj\Debug\KarelRobotCore.pdb
